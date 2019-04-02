@@ -1,6 +1,7 @@
 ## Content
 
 - Introduction
-- "Hellow world" with SDL
+- "Hello world" with SDL
 - Basic framework of the filament
-- etc
+- Setup of the filament
+- Samples
